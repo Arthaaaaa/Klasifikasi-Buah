@@ -1,0 +1,7 @@
+Flask
+scikit-learn
+numpy
+pillow
+matplotlib
+seaborn
+joblib
